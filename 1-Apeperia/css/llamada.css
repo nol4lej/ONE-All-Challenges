@@ -13,7 +13,7 @@
 }
 
 .llamada__titulo {
-    font-family: 'Montserrat', serif;
+    font-family: var(--montserrat);
     font-size: 2rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -30,4 +30,18 @@
 
 .llamada__boton {
     width: 100%;
+}
+
+@media screen and (min-width: 1024px) {
+    .llamada {
+        background-image: url(../img/bg-intro.jpg);
+        background-size: cover;
+
+        padding-top: 8.25rem;
+    }
+
+    .llamada__titulo {
+        font-size: 3.25rem;
+        margin-bottom: 2rem;
+    }
 }
