@@ -4,3 +4,6 @@
 [submodule "ONE-Challenge-Portafolio"]
 	path = ONE-Challenge-Portafolio
 	url = https://github.com/nol4lej/ONE-Challenge-Portafolio
+[submodule "Challenge-Portafolio"]
+	path = Challenge-Portafolio
+	url = https://github.com/nol4lej/ONE-Challenge-Portafolio
