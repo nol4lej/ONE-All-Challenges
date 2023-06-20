@@ -1,3 +1,6 @@
 [submodule "Challenge-Codificador"]
 	path = Challenge-Codificador
 	url = https://github.com/nol4lej/challengeonecodificador5.git
+[submodule "ONE-Challenge-Portafolio"]
+	path = ONE-Challenge-Portafolio
+	url = https://github.com/nol4lej/ONE-Challenge-Portafolio
